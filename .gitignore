@@ -1,0 +1,36 @@
+# File environment
+.env
+
+# Folder unduhan
+downloads/
+
+# File cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+logs/
+debug.log
+
+# Virtual environment (venv)
+venv/
+env/
+
+# Paket atau library Python lokal
+*.egg-info/
+dist/
+build/
+
+# Editor/IDE-specific
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
